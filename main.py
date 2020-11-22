@@ -7,7 +7,7 @@ YouTube : Pyvisualizer
 import requests
  
 url = "https://www.fast2sms.com/dev/bulk"
-contact = 8604629998
+contact = "Your contact"
 API = "Your API key"
 while True:
         try:
